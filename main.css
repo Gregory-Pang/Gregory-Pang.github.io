@@ -1,0 +1,26 @@
+body
+  { background-image: linear-gradient(white;
+  }
+h1 {
+  color: orange;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 15px;
+  color: red;
+}
+
+
+
+nav {
+  text-align: center;
+  background-image: linear-gradient(yellow , red);
+  color : black;
+  font-size: 25px
+}
+
+ol {
+  font-weight: bold;
+}
